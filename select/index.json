@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "でも、",
+  "base_artist": "高瀬統也、れん",
+  "createdAt": "2025-12-01T06:29:17.832583Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "でも、",
+      "artist": "TakaseToya",
+      "has_synced": true,
+      "path": "select/01_でも、_TakaseToya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "でも、 - Demo,",
+      "artist": "TakaseToya & Ren",
+      "has_synced": true,
+      "path": "select/02_でも、_-_Demo,_TakaseToya_&_Ren.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "こんにちは。今日は入浴をご紹介します。あなたは近眼ですか、もしも窓に歩く人がありました。でも、空気清浄機がお安く手に入ります。ジェネリック医薬品を切ってもいい電話",
+      "artist": "(ex.) happyender girl",
+      "has_synced": false,
+      "path": "select/03_こんにちは。今日は入浴をご紹介します。あなたは近眼ですか、もしも窓に歩く人がありました。でも、空気清浄機がお安く手に入ります。ジェネリック医薬品を切ってもいい電_(ex.)_happyender_girl.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "こんにちは。今日は入浴をご紹介します。あなたは近眼ですか、もしも窓に歩く人がありました。でも、空気清浄機がお安く手に入ります。ジェネリック医薬品を切ってもいい電話",
+      "artist": "happyender girl",
+      "has_synced": false,
+      "path": "select/04_こんにちは。今日は入浴をご紹介します。あなたは近眼ですか、もしも窓に歩く人がありました。でも、空気清浄機がお安く手に入ります。ジェネリック医薬品を切ってもいい電_happyender_girl.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "でも！？しょうがない",
+      "artist": "BARBEE BOYS",
+      "has_synced": false,
+      "path": "select/05_でも!_しょうがない_BARBEE_BOYS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "でも!?しょうがない",
+      "artist": "BARBEE BOYS",
+      "has_synced": true,
+      "path": "select/06_でも!_しょうがない_BARBEE_BOYS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "でも、",
+      "artist": "高瀬統也 & れん",
+      "has_synced": true,
+      "path": "select/07_でも、_高瀬統也_&_れん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "でも、手を出すな！(2014 Ver.)",
+      "artist": "ウカスカジー",
+      "has_synced": false,
+      "path": "select/08_でも、手を出すな!(2014_Ver.)_ウカスカジー.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "確率的です。でも、法則です。 (Final Live)",
+      "artist": "イロクイ。",
+      "has_synced": false,
+      "path": "select/09_確率的です。でも、法則です。_(Final_Live)_イロクイ。.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "バイバイきみへ。～でも、サヨナラじゃない～",
+      "artist": "Hazzie",
+      "has_synced": false,
+      "path": "select/10_バイバイきみへ。~でも、サヨナラじゃない~_Hazzie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "素晴らしき世界 でも どこにもない場所",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/11_素晴らしき世界_でも_どこにもない場所_Ave_Mujica.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "でも、",
+      "artist": "TakaseToya, Ren",
+      "has_synced": false,
+      "path": "select/pl_01_でも、_TakaseToya,_Ren.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "でも、何かが違う",
+      "artist": "TakaseToya, Ren",
+      "has_synced": false,
+      "path": "select/pl_02_でも、何かが違う_TakaseToya,_Ren.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "でも、とか、まだ",
+      "artist": "TakaseToya, Ren",
+      "has_synced": false,
+      "path": "select/pl_03_でも、とか、まだ_TakaseToya,_Ren.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "でも、",
+      "artist": "TakaseToya, Ren",
+      "has_synced": false,
+      "path": "select/pl_04_でも、_TakaseToya,_Ren.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "でも、やっぱり…好きだったんだよ",
+      "artist": "TakaseToya, Ren",
+      "has_synced": false,
+      "path": "select/pl_05_でも、やっぱり...好きだったんだよ_TakaseToya,_Ren.txt"
+    }
+  ]
+}
